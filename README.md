@@ -1,6 +1,6 @@
-# Ex.07 Restaurant Website
+# Ex.06 Restaurant Website
 ## Date:
-26/12/2024
+20/05/2025
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
 
@@ -66,7 +66,7 @@ home.html
     </section>
    <footer>
     <div class="container">
-        <p>&copy; 2024 Subash Miracle Raj.All Rights Reserved.</p>
+        <p>&copy; 2025 Subash Miracle Raj.All Rights Reserved.</p>
     </div>
    </footer> 
 </body>
@@ -172,7 +172,7 @@ menu.html
  </section>
  <footer>
     <div class="container">
-        <p>&copy; 2024 Subash Miracle Raj.All Rights Reserved.</p>
+        <p>&copy; 2025 Subash Miracle Raj.All Rights Reserved.</p>
     </div>
    </footer> 
 </body>
@@ -219,7 +219,7 @@ Genuine Hospitality
     </section>
     <footer>
         <div class="container">
-            <p>&copy; 2024 Subash Miracle Raj.All Rights Reserved.</p>
+            <p>&copy; 2025 Subash Miracle Raj.All Rights Reserved.</p>
         </div>
        </footer> 
     </body>
@@ -293,7 +293,7 @@ administration.html
  </section>
  <footer>
     <div class="container">
-        <p>&copy; 2024 Subash Miracle Raj.All Rights Reserved.</p>
+        <p>&copy; 2025 Subash Miracle Raj.All Rights Reserved.</p>
     </div>
    </footer> 
 </body>
@@ -337,7 +337,7 @@ contact_us.html
     </section>
     <footer>
         <div class="container">
-            <p>&copy; 2024 Subash Miracle Raj.All Rights Reserved.</p>
+            <p>&copy; 2025 Subash Miracle Raj.All Rights Reserved.</p>
         </div>
        </footer> 
     </body>
@@ -541,11 +541,10 @@ footer{
 }
 ```
 ## OUTPUT:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](<Screenshot 2025-05-29 091634.png>) 
+![alt text](<Screenshot 2025-05-29 091659.png>) 
+![alt text](<Screenshot 2025-05-29 091717.png>) 
+![alt text](<Screenshot 2025-05-29 091732.png>) 
+![alt text](<Screenshot 2025-05-29 091743.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
